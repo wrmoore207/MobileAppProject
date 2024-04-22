@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="role_array">
+        <item>Ticketbooth</item>
+        <item>Captain</item>
+        <item>Mate</item>
+        <item>Kitchen</item>
+        <item>Bake</item>
+        <item>Clam Washer</item>
+        <item>Wait</item>
+        <item>JOAT</item>
+        <item>Gift Shop</item>
+        <item>Bar</item>
+        <item>OFF</item>
+    </string-array>
+</resources>

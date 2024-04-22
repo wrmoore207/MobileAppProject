@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ScheduleApp</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login_now">Login Now</string>
+    <string name="new_user_sign_up_now">New User? Sign Up Now</string>
+    <string name="logout">Logout</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="today">Today</string>
+    <string name="schedule">Schedule</string>
+    <string name="requests">Requests</string>
+    <string name="profile">Profile</string>
+    <string name="user_profile">User Profile</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="employee_s_role">Employee\'s Role</string>
+    <string name="create_schedule">Create Schedule</string>
+    <string name="new_request">New Request</string>
+    <string name="submit">Submit</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="role">Role</string>
+    <string name="employees">Employees</string>
+    <string name="user_name">User Name</string>
+    <string name="user_phone_number">User Phone Number</string>
+    <string name="user_email_address">User Email Address</string>
+    <string name="edit">Edit</string>
+    <string name="my_schedule">My Schedule</string>
+    <string name="this_week">This Week</string>
+    <string name="shift_start_time">Shift Start Time</string>
+    <string name="no_start_time">No Start Time</string>
+    <string name="navigate_to_previous_date">Navigate to Previous Date</string>
+    <string name="navigate_to_next_date">Navigate to Next Date</string>
+    <string name="headshot">Headshot</string>
+</resources>
